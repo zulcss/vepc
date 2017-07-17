@@ -8,5 +8,6 @@ add requirements.txt /root/requirements.txt
 run pip install -r /root/requirements.txt
 
 add dump.py /root/dump.py
-add vepc.conf /root/vepc.conf
+add master.conf /root/master.conf
+add slave.conf /root/slave.conf
 run chmod +x /root/dump.py
